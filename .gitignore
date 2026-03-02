@@ -1,0 +1,15 @@
+.env
+.env.*
+*.key
+*.pem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+node_modules/
+dist/
+build/
+*.log
+__pycache__/
+*.pyc
